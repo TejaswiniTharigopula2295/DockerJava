@@ -9,7 +9,7 @@
         class="org.springframework.jdbc.datasource.DriverManagerDataSource">
   
        <property name="driverClassName" value="com.mysql.jdbc.Driver" />
-       <property name="url" value="jdbc:mysql://3.93.143.240:3306/simplehr" />
+       <property name="url" value="jdbc:mysql://3.83.38.225:3306/simplehr" />
        <property name="username" value="root" />
        <property name="password" value="root" />
     </bean>
